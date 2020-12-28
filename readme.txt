@@ -7,7 +7,7 @@ Tested up to: 4.8
 Stable tag: 3.10.5
 License: GPLv2
 
-Manticore Search Plugin allows to use Sphinx Search Server power to enable ultra-fast and feature-rich search on WordPress-based websites.
+WordPress Manticore Search Plugin allows to use Sphinx Search Server power to enable ultra-fast and feature-rich search on WordPress-based websites.
 
 == Description ==
 
